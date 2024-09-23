@@ -3,7 +3,7 @@
 ## Overview 🌟
 A simple and concise application with a pleasant design. The user can add and reduce the counter.
 
-### [Check the Live Demo](https://subbotinroman.github.io/counter-app/) 
+### [Check the Live Demo](https://subbotinroman.github.io/counter-app/) 👈
 
 <img alt="ToDo-List preview" src="public/preview.png">
 
