@@ -22,7 +22,20 @@ A simple and concise application with a pleasant design. The user can add and re
 - ✅ Increasing the counter by pressing the “plus” button
 - 💥 Decrease the counter by pressing the “minus” button
 ***
+## How to run locally
 
+* install dependencies
+```js
+npm install
+// or
+yarn
+```
+* start local server via Vite
+```js
+npm start dev
+// or
+yarn dev
+```
 
 
 
